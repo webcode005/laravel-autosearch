@@ -1,6 +1,7 @@
 <?php
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\TypeaheadController;
+use App\Http\Controllers\EmailController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,3 +14,5 @@ use App\Http\Controllers\TypeaheadController;
 */
 Route::get('/home', [TypeaheadController::class, 'index']);
 Route::get('/autocomplete-search', [TypeaheadController::class, 'autocompleteSearch']);
+
+Route::get('/sendemail', [EmailController::class,'sendmail']);
