@@ -23,8 +23,8 @@
                     </tr>
                     <tr>
                         <td style="text-align:center;">
-                          <a href="https://rakeshmandal.com" title="logo" target="_blank">
-                            <img width="60" src="https://i.ibb.co/hL4XZp2/android-chrome-192x192.png" title="logo" alt="logo">
+                          <a href="https://www.shoppingwheel.in/" title="logo" target="_blank">
+                          <img width="60" src="https://www.shoppingwheel.in/public/uploads/1631851796-h-40-download%20(1).png" title="logo" alt="logo" style="width: 55%;">
                           </a>
                         </td>
                     </tr>
@@ -40,18 +40,18 @@
                                 </tr>
                                 <tr>
                                     <td style="padding:0 35px;">
-                                        <h1 style="color:#1e1e2d; font-weight:500; margin:0;font-size:32px;font-family:'Rubik',sans-serif;">You have
-                                            requested to reset your password</h1>
+                                        <h1 style="color:#1e1e2d; font-weight:500; margin:0;font-size:20px;font-family:'Rubik',sans-serif;">To reset your Shoppingwheel password,Please click below link:</h1>
                                         <span
                                             style="display:inline-block; vertical-align:middle; margin:29px 0 26px; border-bottom:1px solid #cecece; width:100px;"></span>
-                                        <p style="color:#455056; font-size:15px;line-height:24px; margin:0;">
+                                        <!-- <p style="color:#455056; font-size:15px;line-height:24px; margin:0;">
                                             We cannot simply send you your old password. A unique link to reset your
                                             password has been generated for you. To reset your password, click the
                                             following link and follow the instructions.
-                                        </p>
-                                        <a href="javascript:void(0);"
+                                        </p> -->
+                                        <a href="https://www.shoppingwheel.in/reset-password/25" target="blank"
                                             style="background:#20e277;text-decoration:none !important; font-weight:500; margin-top:35px; color:#fff;text-transform:uppercase; font-size:14px;padding:10px 24px;display:inline-block;border-radius:50px;">Reset
                                             Password</a>
+                                            <span style="display:inline-block; vertical-align:middle; margin:29px 0 26px; border-bottom:1px solid #cecece; width:100px;"></span>
                                     </td>
                                 </tr>
                                 <tr>
@@ -64,7 +64,7 @@
                     </tr>
                     <tr>
                         <td style="text-align:center;">
-                            <p style="font-size:14px; color:rgba(69, 80, 86, 0.7411764705882353); line-height:18px; margin:0 0 0;">&copy; <strong>www.rakeshmandal.com</strong></p>
+                            <p style="font-size:14px; color:rgba(69, 80, 86, 0.7411764705882353); line-height:18px; margin:0 0 0;">&copy; <strong>www.shoppingwheel.in</strong></p>
                         </td>
                     </tr>
                     <tr>

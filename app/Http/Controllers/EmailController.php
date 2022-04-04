@@ -9,12 +9,12 @@ class EmailController extends Controller
         
        $data = ['name'=>"Basant",'msg'=>"Hello Basant Mallick"];
        
-       $user['to']="basantmallick94@gmail.com";
+       $user['to']="justfordemo2017@gmail.com";
 
        Mail::send('mailer_template',$data,function($messages) use ($user)
             {
                 $messages->to($user['to']);
-                $messages->subject('Hello Developer');
+                $messages->subject('Shopping Wheel Password reset');
             }
        );
         
